@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SunBlocker App](https://github.com/RickyDev809/SunBlocker)
 
-- 🌱 I’m currently learning **iOS Development with Swift**
+- 🌱 I’m currently growing and learning iOS Development with Swift**
 
 - 🫱🏻‍🫲🏽 I’m looking to collaborate on **iOS Projects**
 
